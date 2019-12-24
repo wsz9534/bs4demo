@@ -1,0 +1,35 @@
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+.zuo{
+	width: 12rem;
+	height: 844px;
+	margin-top: 3.5rem;
+	padding-top: 1rem;
+	background: #283643;
+}
+.lis:hover{
+	background: #3c4248;
+}
+.zuo1{
+	color: white;
+	height: 3rem;
+	line-height: 3rem;
+	padding: 0 2rem 0;
+}
+.yuan{
+	margin-left: 1rem;
+}
+.you{
+	margin: 3.5rem 0 0 12rem;
+}
+.sjmb{
+	height: 3rem;
+	line-height: 3rem;
+	color: #6c757d;
+	border-bottom: 2px #e9ecef solid;
+}
+.bkx{
+	border-top: white;
+}
