@@ -4,7 +4,7 @@ ul{
 }
 .zuo{
 	width: 12rem;
-	height: 844px;
+	height: 56.25rem;
 	margin-top: 3.5rem;
 	padding-top: 1rem;
 	background: #283643;
@@ -21,9 +21,9 @@ ul{
 .yuan{
 	margin-left: 1rem;
 }
-.you{
+/*.you{
 	margin: 3.5rem 0 0 12rem;
-}
+}*/
 .sjmb{
 	height: 3rem;
 	line-height: 3rem;
@@ -32,4 +32,13 @@ ul{
 }
 .bkx{
 	border-top: white;
+}
+.sy{
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 3.5rem 0 0 12rem;
+	width: calc(100% - 12rem);
+	height: calc(100% - 3.5rem);
+	overflow:auto;
 }
